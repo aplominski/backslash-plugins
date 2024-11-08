@@ -1,0 +1,15 @@
+name: npm
+label: NPM
+version: 1.0.0
+author: Backslash
+
+commands:
+  - name: npm-search
+    label: NPM Search
+    isImmediate: false
+    bgColor: "#DC2626"
+    color: "#FFFFFF"
+    icon: package
+    keywords:
+      - search
+      - npm
