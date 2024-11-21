@@ -1,6 +1,6 @@
 
 ![bs_banner](https://github.com/user-attachments/assets/ca33bf1a-9910-4d18-9bf4-bbfc62be8df3)
-[Backslash app](https://github.com/backslash-app/backslash) | [Documentation](https://github.com/backslash/backslash-app/blob/main/DOCUMENTATION.md) | [Releases](https://github.com/backslash/backslash-app/releases) | [Discord server](https://discord.gg/sTzwBzDkK9)
+[Backslash app](https://github.com/backslash-app/backslash) | [Documentation](https://github.com/backslash-app/backslash/blob/main/DOCUMENTATION.md) | [Releases](https://github.com/backslash-app/backslash/releases) | [Discord server](https://discord.gg/sTzwBzDkK9)
 
 ## Backslash Plugins: Where Dreams Come to Compile (Sometimes)
 
