@@ -27,7 +27,7 @@ commands:
       - restart
       - reboot
 
-  - name: sys-shutdown
+  - name: sys-poweroff
     label: Shutdown
     isImmediate: true
     bgColor: "#f38ba8"
