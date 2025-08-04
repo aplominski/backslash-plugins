@@ -19,8 +19,8 @@ commands:
     label: Restart
     isImmediate: true
     bgColor: "#fab387"
-    color: "#cdd6f4"
-    icon: restart
+    color: "#1e1e2e"
+    icon: circle # TODO: add correct icon
     keywords:
       - system
       - sys
@@ -31,8 +31,8 @@ commands:
     label: Shutdown
     isImmediate: true
     bgColor: "#f38ba8"
-    color: "#cdd6f4"
-    icon: off
+    color: "#1e1e2e"
+    icon: power
     keywords:
       - system
       - sys
