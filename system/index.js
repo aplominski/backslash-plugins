@@ -1,6 +1,8 @@
 module.exports = {
   commands: {
     'sys-kill-process': require('./sys-kill-process'),
+    'sys-restart': require('./sys-restart'),
+    'sys-shutdown': require('./sys-shutdown'),
     'sys-set-volume-0': require('./sys-set-volume-0'),
     'sys-set-volume-25': require('./sys-set-volume-25'),
     'sys-set-volume-50': require('./sys-set-volume-50'),
