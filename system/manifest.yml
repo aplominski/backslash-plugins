@@ -20,7 +20,7 @@ commands:
     isImmediate: true
     bgColor: "#fab387"
     color: "#1e1e2e"
-    icon: circle # TODO: add correct icon
+    icon: arrow-clockwise
     keywords:
       - system
       - sys
