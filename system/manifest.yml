@@ -15,7 +15,7 @@ commands:
       - kill
       - process
 
-  - name: sys-restart
+  - name: sys-reboot
     label: Restart
     isImmediate: true
     bgColor: "#fab387"
@@ -25,6 +25,7 @@ commands:
       - system
       - sys
       - restart
+      - reboot
 
   - name: sys-shutdown
     label: Shutdown
