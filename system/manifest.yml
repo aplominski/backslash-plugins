@@ -15,6 +15,31 @@ commands:
       - kill
       - process
 
+  - name: sys-reboot
+    label: Restart
+    isImmediate: true
+    bgColor: "#fab387"
+    color: "#1e1e2e"
+    icon: arrow-clockwise
+    keywords:
+      - system
+      - sys
+      - restart
+      - reboot
+
+  - name: sys-poweroff
+    label: Shutdown
+    isImmediate: true
+    bgColor: "#f38ba8"
+    color: "#1e1e2e"
+    icon: power
+    keywords:
+      - system
+      - sys
+      - shutdown
+      - off
+      - poweroff
+
   - name: sys-set-volume-0
     label: Set volume to 0%
     isImmediate: true

@@ -1,4 +1,3 @@
-
 ![bs_banner](https://github.com/user-attachments/assets/ca33bf1a-9910-4d18-9bf4-bbfc62be8df3)
 [Backslash app](https://github.com/backslash-app/backslash) | [Documentation](https://github.com/backslash-app/backslash/blob/main/DOCUMENTATION.md) | [Releases](https://github.com/backslash-app/backslash/releases) | [Discord server](https://discord.gg/sTzwBzDkK9)
 
@@ -13,6 +12,7 @@ This is where the Backslash community comes to share their plugins, snippets of 
 ### Why should I care?
 
 Because, dear Linux enthusiast, this is your chance to:
+
 1. Show off your coding skills
 2. Solve problems you didn't know you had
 3. Create problems you definitely don't need
