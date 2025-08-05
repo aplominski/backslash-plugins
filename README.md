@@ -40,6 +40,9 @@ Remember, the only bad plugin is the one that doesn't compile. Actually, scratch
 **Q: Will my plugin be accepted?**  
 **A:** If it runs without setting fire to the user's computer, you're already ahead of 50% of the submissions. We have standards, they're just very, very low.
 
+**Q: What icon library does backslash use for the plugins?**  
+**A:** It's [Phosphor Icons](https://phosphoricons.com/), you can use their icons for your plugins.
+
 **Q: I found a bug in a plugin. What should I do?**  
 **A:** First, make sure it's actually a bug and not a "feature." If it's indeed a bug, congratulations! You've discovered a new species. Report it, and maybe the plugin author will name it after you.
 
