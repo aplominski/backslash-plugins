@@ -1,0 +1,19 @@
+name: docker
+label: Docker
+version: 1.0.0
+author: Aleksander Płomiński
+
+commands:
+  - name: docker
+    label: Manage containers
+    isImmediate: false
+    bgColor: "#2496ED"
+    color: "#FFFFFF"
+    icon: docker
+    keywords:
+      - docker
+      - container
+      - start
+      - stop
+      - remove
+      - run
